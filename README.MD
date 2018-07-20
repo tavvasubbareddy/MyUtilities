@@ -4,6 +4,7 @@ This project contains miscellaneous utilities that would be required in automati
 Generates checksum value of a file using MessageDigest algorithms (MD5/SHA-1/SHA-256)
 
 **Input:** Path of the file. Ex: c:\test\abc.txt
+
 **Output:** Checksum value
 
 ------------
@@ -12,4 +13,5 @@ Generates checksum value of a file using MessageDigest algorithms (MD5/SHA-1/SHA
 Sends multiple subsequent requests under same session. It helps to automate CRUD (Create, Read, Update & Delete) operations. It helps to automate SSO based scenarios.
 
 **Input:** Server url
+
 **Output:**  Response from the server.
